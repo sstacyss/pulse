@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 # DS file from macbook
-.DS_Store
+**/.DS_Store
